@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ammo.js": "^0.0.10",
     "three": "^0.169.0"
   },
   "devDependencies": {
